@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<h3>Login</h3>
+<h3 style="color:red">Login</h3>
 
 <form action="<c:url value="/secure/login.controller" />" method="get">
 <table>
